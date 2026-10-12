@@ -1,0 +1,16 @@
+kaggle
+numpy
+pandas
+matplotlib
+plotly
+seaborn
+scikit-learn
+xgboost
+tensorflow
+torch
+torchvision
+torchaudio
+tqdm
+networkx
+cdt
+imblearn

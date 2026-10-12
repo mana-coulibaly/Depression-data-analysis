@@ -1,0 +1,25 @@
+# Environnements virtuels Python
+env/
+venv/
+.venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Configuration et secrets
+.env
+.env.*
+!.env.example
+
+# Fichiers VS Code
+.vscode/
+
+# Cache et tests
+.pytest_cache/
+.mypy_cache/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
